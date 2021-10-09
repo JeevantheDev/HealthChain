@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "3.5.2",
+    "@react-native-masked-view/masked-view": "^0.2.6",
+    "@react-navigation/material-bottom-tabs": "^6.0.5",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/stack": "^6.0.7",
+    "@stripe/stripe-react-native": "0.1.4",
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "elliptic": "^6.5.4",
+    "expo": "~42.0.1",
+    "expo-app-loading": "^1.1.2",
+    "expo-application": "~3.2.0",
+    "expo-constants": "~11.0.1",
+    "expo-image-picker": "~10.2.2",
+    "expo-notifications": "~0.12.3",
+    "expo-status-bar": "~1.0.4",
+    "firebase": "8.2.3",
+    "health-chain": "^1.0.2",
+    "moment": "^2.29.1",
+    "native-base": "^3.1.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-ecc": "^2.3.0",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-gifted-chat": "^0.16.3",
+    "react-native-keyboard-aware-scroll-view": "^0.9.4",
+    "react-native-paper": "^4.9.2",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "^3.7.1",
+    "react-native-svg": "12.1.1",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "~0.13.12",
+    "styled-components": "^5.3.1",
+    "styled-system": "^5.1.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
