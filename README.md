@@ -27,7 +27,7 @@
 ### Screenshots
 
 - Screen-1
-  ![Screen-1](./screenshots/001.png)
+  ![Screen-1](./screenshots/001.png =250px)
 - Screen-2
   ![Screen-2](./screenshots/002.png)
 - Screen-3
