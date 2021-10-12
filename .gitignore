@@ -8,10 +8,12 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+
 server/
 
 assets/Appicons
-/google-services.json
+.env
+google-services.json
 
 # macOS
 .DS_Store

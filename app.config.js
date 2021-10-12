@@ -2,8 +2,8 @@ import 'dotenv/config';
 
 export default {
   expo: {
-    name: 'doc-chain-app',
-    slug: 'doc-chain-app',
+    name: 'HealthChain',
+    slug: 'HealthChain',
     version: '1.0.0',
     orientation: 'portrait',
     icon: './assets/icon.png',
@@ -18,11 +18,14 @@ export default {
     },
     assetBundlePatterns: ['**/*'],
     ios: {
+      bundleIdentifier: 'com.health.chain',
+      buildNumber: '1.0.0',
       supportsTablet: true,
     },
     android: {
       package: 'com.health.chain',
       googleServicesFile: './google-services.json',
+      versionCode: 1,
     },
     web: {
       favicon: './assets/favicon.png',

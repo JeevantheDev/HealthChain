@@ -24,9 +24,9 @@ const RegisterScreen = ({ navigation }) => {
 
   const [isLoading, setIsLoading] = useState(false);
   const [formObj, setFormObj] = useState({
-    fullname: 'Henry Hoe Doe',
-    email: 'henry@gmail.com',
-    password: '123456',
+    fullname: '',
+    email: '',
+    password: '',
     avatar: '',
   });
 
