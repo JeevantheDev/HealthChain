@@ -40,7 +40,7 @@
   </div>
   <div style="display:flex;">
     <img src="./screenshots/007.png" width="250" alt="screen-7"/>
-    <img src="./screenshots/000.png" width="350" alt="screen-8"/>
+    <img src="./screenshots/000.png" width="100%" alt="screen-8"/>
   </div>
 
 - ### [Click Here For More ScreenShots](https://drive.google.com/drive/folders/1u56KvE4-nM8W9824s8qtrvVn9tVefxvW?usp=sharing)
