@@ -26,14 +26,22 @@
 
 ### Screenshots
 
-  <img src="./screenshots/001.png" width="250" alt="screen-1"/>
-  <img src="./screenshots/002.png" width="250" alt="screen-2"/>
-  <img src="./screenshots/003.png" width="250" alt="screen-3"/>
-  <img src="./screenshots/004.png" width="250" alt="screen-4"/>
-  <img src="./screenshots/005.png" width="250" alt="screen-5"/>
-  <img src="./screenshots/006.png" width="250" alt="screen-6"/>
-  <img src="./screenshots/007.png" width="250" alt="screen-7"/>
-  <img src="./screenshots/000.png" width="250" alt="screen-8"/>
+  <div style="display:flex;">
+    <img src="./screenshots/001.png" width="250" alt="screen-1"/>
+    <img src="./screenshots/002.png" width="250" alt="screen-2"/>
+  </div>
+  <div style="display:flex;">
+     <img src="./screenshots/003.png" width="250" alt="screen-3"/>
+     <img src="./screenshots/004.png" width="250" alt="screen-4"/>
+  </div>
+  <div style="display:flex;">
+    <img src="./screenshots/005.png" width="250" alt="screen-5"/>
+    <img src="./screenshots/006.png" width="250" alt="screen-6"/>
+  </div>
+  <div style="display:flex;">
+    <img src="./screenshots/007.png" width="250" alt="screen-7"/>
+    <img src="./screenshots/000.png" width="250" alt="screen-8"/>
+  </div>
 
 - ### [Click Here For More ScreenShots](https://drive.google.com/drive/folders/1u56KvE4-nM8W9824s8qtrvVn9tVefxvW?usp=sharing)
 
