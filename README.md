@@ -26,22 +26,14 @@
 
 ### Screenshots
 
-- Screen-1
-  ![Screen-1](./screenshots/001.png =250px)
-- Screen-2
-  ![Screen-2](./screenshots/002.png)
-- Screen-3
-  ![Screen-3](./screenshots/003.png)
-- Screen-4
-  ![Screen-4](./screenshots/004.png)
-- Screen-5
-  ![Screen-5](./screenshots/005.png)
-- Screen-6
-  ![Screen-6](./screenshots/006.png)
-- Screen-7
-  ![Screen-7](./screenshots/007.png)
-- Screen-8
-  ![Screen-8](./screenshots/000.png)
+  <img src="./screenshots/001.png" width="250" alt="screen-1"/>
+  <img src="./screenshots/002.png" width="250" alt="screen-2"/>
+  <img src="./screenshots/003.png" width="250" alt="screen-3"/>
+  <img src="./screenshots/004.png" width="250" alt="screen-4"/>
+  <img src="./screenshots/005.png" width="250" alt="screen-5"/>
+  <img src="./screenshots/006.png" width="250" alt="screen-6"/>
+  <img src="./screenshots/007.png" width="250" alt="screen-7"/>
+  <img src="./screenshots/000.png" width="250" alt="screen-8"/>
 
 - ### [Click Here For More ScreenShots](https://drive.google.com/drive/folders/1u56KvE4-nM8W9824s8qtrvVn9tVefxvW?usp=sharing)
 
