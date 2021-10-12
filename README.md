@@ -8,6 +8,7 @@
 - [Stripe-React-Native](https://github.com/stripe/stripe-react-native)
 - [Firebase(Firestore, Realtime Database, Cloud Storage)](https://firebase.google.com/)
 - [Native-Base](https://nativebase.io/)
+- [Figma Designs](https://www.figma.com/file/6Nf6nXRJqEl6PxTVTgAQXe/HealthChain?node-id=0%3A1)
 
 ### Idea of the Project
 
