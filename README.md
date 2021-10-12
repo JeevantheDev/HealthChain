@@ -1,6 +1,6 @@
 ## HealthChain
 
-> A `coin exchange` doctor appointment booking `mobile application`.
+> A coin exchange doctor appointment booking mobile application.
 
 ### Technologies used
 
